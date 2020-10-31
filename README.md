@@ -8,7 +8,7 @@ Please see http://www.ruthashaffer.com/ for my other research projects (e.g., pr
 
 # Summary of project
 
-The following provides a summary of the research project. Please see the section below for an explanation of "Recollection" and "Familiarity" parameters under the Dual-Process Signal-Detection Model.
+The following provides a summary of the research project. Please see the section below for an explanation of "Recollection" and "Familiarity" parameters under the Dual-Process Signal-Detection Model of recognition memory.
 
 Despite marked reductions in recollection with healthy aging (Jennings & Jacoby, 1997; Naveh-Benjamin, 2000; Koen & Yonelinas, 2016), prior work often reveals a benefit of retrieval practice in older adults that is similar in magnitude to that observed in younger adults (Coane, 2013; Meyer & Logan, 2013). This research seeks to address the puzzle of why older adults exhibit such a robust testing effect, despite declines in the very process often considered to be the central contributor to the testing effect. Does retrieval practice for older adults ameliorate existing deficits in recollection or function primarily via preserved familiarity processing? Do the mechanisms that support the benefits of retrieval change with increasing age?
 
