@@ -2,7 +2,7 @@
 
 Ruth Shaffer
 
-This repository contains my R scripts for data cleaning, organization, visualization, and analysis (multilevel, logistic modeling, reliability analysis, ANOVA) for my research project entitled "Exploring the Mechanisms that Underlie the Benefits of Retrieval Practice in Younger and Older Adults" (Master's Thesis).
+This repository contains my R scripts for data cleaning, organization, visualization, and analysis (multilevel, logistic modeling, reliability analysis, ANOVA) for my research project, "Exploring the Mechanisms that Underlie the Benefits of Retrieval Practice in Younger and Older Adults" (Master's Thesis).
 
 Please see http://www.ruthashaffer.com/ for my other research projects (e.g., project descriptions, links to posters and publications in peer-reviewed scientific journals).
 
