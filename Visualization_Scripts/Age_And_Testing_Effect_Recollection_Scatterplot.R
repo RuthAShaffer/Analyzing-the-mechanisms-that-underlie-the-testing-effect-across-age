@@ -86,5 +86,5 @@ plot1 = ggplot(CURRENT_DATA[CURRENT_DATA$group=="Older",], aes(x = AGE, y = TE_R
         axis.line.x = element_line(size = 2, linetype = "solid", colour = "black"),
         axis.line.y = element_line(size = 2, linetype = "solid", colour = "black"))
 plot1
-# saves all plots in list as single pdf file
+# saves plot
 ggsave("../../R_OUTPUT/PLOTS/AGE_TESTING_EFFECT_REC.pdf", plot1, width=6, height=6)
